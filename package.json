@@ -1,0 +1,15 @@
+{
+  "name": "topluyo-bot",
+  "version": "1.0.0",
+  "description": "Topluyo AI Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "topluyo-bot": "^1.0.0",
+    "groq-sdk": "^0.12.0",
+    "@google/genai": "^0.1.1",
+    "ws": "^8.18.0"
+  }
+}
